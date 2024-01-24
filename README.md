@@ -1,6 +1,6 @@
 # NUC11-Hackintosh
  
-Intel NUC 11, Quad-Core Intel Core i7-1165 G7
+Intel NUC 11, Quad-Core Intel Core i7-1165 G7,
 iGPU is not working,
 AMD RX 6650 XT 8 GB,
 
